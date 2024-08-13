@@ -1,1 +1,1 @@
-# DEVOPS1
+# Курс по DEVOPS
